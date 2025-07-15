@@ -21,3 +21,9 @@ These projects are built with:
       - new user registration with valid credentials
       - new user registration with already used email address
       - testing password strenght in a new user's registration form
+
+  - Hyperlink_check
+      - Test all hyperlinks on homepage
+   
+  - UserProfileTest
+      - tests if the user can successfully make changes in the profile
